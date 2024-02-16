@@ -1,0 +1,15 @@
+.edit {
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    /* background-color: blanchedalmond; */
+}
+
+.content{
+background-color: blanchedalmond;
+width: 100%;
+margin: 10px;
+}
